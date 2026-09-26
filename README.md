@@ -1,4 +1,3 @@
-Here’s a README-style description you can drop into the GitHub repo and build on as the project grows.
 Phrankintosh System Controller
 The Phrankintosh System Controller is an ESP32-S3-based hardware management controller built for a Raspberry Pi-powered Macintosh Classic II retrofit.
 What started as a simple fan controller has turned into a small independent system-management platform with Wi-Fi, a browser-based control interface, NeoPixel status control, planned fan PWM and RPM monitoring, temperature monitoring, Raspberry Pi heartbeat/shutdown supervision, serial communication, SD-card support, and future power-management features.
